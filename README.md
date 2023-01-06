@@ -2,19 +2,23 @@
 
 ## Overview
 
-Citi Bike is a bikesharing application that has successfully served millions of customers in the beautiful city of New York. Together with my great friend Kate, we decided to make an analysis to see if this business model would work in her hometown, Des Moines.
+Citi Bike is a bike sharing app that has successfully served millions of customers in beautiful New York City. 
 
-Kate found a potential angel investor who might be interested in providing seed funding to start a bikes-hare program in Des Moines, for that reason, we're going to provide a bike trip analysis.
+Together with my great friend Kate, we decided to do an analysis to see if this business model would work in her hometown of Des Moines.
 
-To perform this analysis, we're going to extract data from a CSV file, that we'll get from the Citi Bike program in New York City web page [at this link](https://ride.citibikenyc.com/system-data)
+Kate found a potential angel investor who might be interested in providing seed funds to start a bike-share program in Des Moines, so we're going to provide a bike trip analysis.
 
-As you all know, Tableau, is an excellent tool for data visualisation, espcially because it's easy to use and understand. 
+To perform this analysis, we're going to extract data from a CSV file which we will get from the Citi Bike program website in New York City  [link](https://ride.citibikenyc.com/system-data)
 
-So click [at this link](https://public.tableau.com/views/NYCCitiBikeAnalysis_16729768005430/NYCCitiBikeAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link) to see our findings.
+As everyone knows, Tableau is a great tool for data visualization, especially since it's easy to use and understand.
 
-Let's explore Des Moine! 🚲
+Click [on this link](https://public.tableau.com/views/NYCCitiBikeAnalysis_16729768005430/NYCCitiBikeAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link) to see our findings.
+
+We'll take you for a ride! Are you ready? 🚲
 
 ## Results
+
+
 
 
 ## Summary
