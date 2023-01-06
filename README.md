@@ -8,7 +8,7 @@ Together with my great friend Kate, we decided to do an analysis to see if this 
 
 Kate found a potential angel investor who might be interested in providing seed funds to start a bike-share program in Des Moines, so we're going to provide a bike trip analysis.
 
-To perform this analysis, we're going to extract data from a CSV file which we will get from the Citi Bike program website in New York City  [link](https://ride.citibikenyc.com/system-data)
+To perform this analysis, we're going to use Tableau and extract data from a CSV file which we will get from the Citi Bike program website in New York City  [link](https://ride.citibikenyc.com/system-data)
 
 As everyone knows, Tableau is a great tool for data visualization, especially since it's easy to use and understand.
 
