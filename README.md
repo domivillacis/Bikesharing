@@ -70,18 +70,19 @@ For subscribers, on the other hand, the cifer fluctuates. The highest number of 
 
 Des Moines has a population of 212,031 and is smaller than New York, but that doesn't take away from the success this new business will have.
 
-First of all, we would like to start by saying that location is important. Usually, the main attractions, landmarks or businesses are located in the center of the city, so bike stations should be located in these strategic areas.
+First of all, we would like to start by saying that location is important. Usually, the main attractions, landmarks or businesses are located in the city center, so bike stations should be located in these strategic areas.
 
-According to our results, the majority of customers are men, who use this service at peak hours, which means going to work.
+According to our results, the majority of customers are men, who use this service at peak hours, which means to go to work.
 
-To make sure people engage with this business model, we need to make sure we have enough bikes available for each user, plenty of nearby stations, and an affordable subscription plan, this will not only attract more male customer but it'll also attract tourist and male or female customers who are tired of being stuck in traffic everyday and prefer a fun way to go to work and exercise. Why not?
+To make sure people engage with this business model, we need to make sure we have enough bikes available for each user, plenty of nearby stations, and an affordable subscription plan, this won't only attract more male customers but it'll also attract tourist and customers in general who are tired of being stuck in traffic everyday and prefer a fun way to go to work and exercise. Why not?
 
-I would suggest adding an analysis to see what are the best times per day and week to check and repair the bikes if necessary and that these times do not interrupt the hours of use of the customers.
+I would suggest adding an analysis to see what are the best times per day and week to check and repair the bikes if necessary and that these times don't interrupt the hours of use of the customers.
 
-Finally, to make sure this is a successful year-round business, I would look at the number of trips per month, to see what strategies can be applied during the winter months.
+Finally, to make sure this is a successful year-round business, I would analyse the number of trips per month, to see what strategies can be applied during the winter months.
 
 ## Resources
 
 Software: Tableau
+
 Data: [link](https://ride.citibikenyc.com/system-data)
 
