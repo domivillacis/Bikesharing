@@ -22,7 +22,7 @@ Tableau has been very helpful in getting this analysis started as we were able t
 
 Here, I'll quickly explain the overview.
 
-![Alt text](../../Screenshot%202023-01-06%20at%2015.04.20.png)
+<img width="995" alt="Screenshot 2023-01-06 at 15 04 20" src="https://user-images.githubusercontent.com/112814924/211113106-ec60c552-8071-4adc-a29e-81e61269149f.png">
 
 As we can see in our viz, in the month of August, 2,344,224 people used the app, which is not only a high number, but also means that using a bike was much more useful than taking the subway for many users in NYC.
 
