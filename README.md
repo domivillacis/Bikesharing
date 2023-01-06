@@ -18,7 +18,13 @@ We'll take you for a ride! Are you ready? 🚲
 
 ## Results
 
+<img width="1539" alt="users" src="https://user-images.githubusercontent.com/112814924/211099096-01498ef7-b20a-4b43-8cb3-21b9170da6bb.png"> <img width="1539" alt="gender" src="https://user-images.githubusercontent.com/112814924/211099106-953c6b77-41af-4946-ba69-f9699aa6d0e4.png">
 
+<img width="1539" alt="trips weekday" src="https://user-images.githubusercontent.com/112814924/211099178-dec87706-92df-4b6f-bdf0-e069c5034ecd.png">
+
+<img width="1538" alt="trips gender" src="https://user-images.githubusercontent.com/112814924/211099192-d5a24293-369b-4b52-a2d9-62bfe9b1adb5.png">
+
+<img width="1537" alt="trips" src="https://user-images.githubusercontent.com/112814924/211099206-5e5ab0b4-977b-4920-b1bb-923d9ee39904.png">
 
 
 ## Summary
