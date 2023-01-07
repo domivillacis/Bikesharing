@@ -26,21 +26,21 @@ Here, I'll quickly explain the overview.
 
 As we can see in our viz, in the month of August, 2,344,224 people used the app, which is not only a high number, but also means that using a bike was much more useful than taking the subway for many users in NYC.
 
-Of this number, about 1.5 million users are men, a little over half a million are women, and we also have "unknown" customers who did not fill out that information but they are a little over 200k.
+Of this number, about 1.5 million users are men, a little over half a million are women, and we also have "unknown" customers who didn't fill out that field in the form but are a little over 200k.
 
-A very important and useful piece of information for our finding is that at least 85% of all customers are subscribed to this service, which means that people who live, visit or spend time in the city center are very supportive of this idea.
+One very important fact that we found is that at least 85% of all customers are subscribed to this service, which means that people who live, visit or spend time in the city center are very supportive of this idea.
 
 Now, I'll walk you through some important findings.
 
 ### Checkout Times for Users
 
-In this viz, we can see that some users had very short trip durations around 12, 1 and 2am. Of course, those are not popular hours to use the bike sharing app. If we change the filter from 10 am to 4pm, we'll see the difference in trip durantion.
+In this viz we can see that the duration of the trip that some users made between 12, 1 and 2 am was very short. Of course, those hours are not that popular to use the bike sharing app. If we change the filter from 10 am to 4 pm, we'll see the difference in the duration of the trip.
 
 <img width="1539" alt="users" src="https://user-images.githubusercontent.com/112814924/211099096-01498ef7-b20a-4b43-8cb3-21b9170da6bb.png"> 
 
 ### Checkout Times by Gender
 
-As I mentioned earlier, the majority of Citi Bike subscribers are male riders and this viz allows us to see what the ride duration was by gender by hour. Typically the most popular times to use this service are during the day or during peak hours (7-9am ot 4-7pm)
+As I mentioned earlier, the majority of Citi Bike subscribers are male riders and this viz allows us to see what the ride duration was by gender by hour. Typically the most popular times to use this service are during the day or during peak hours (7-9am to 4-7pm)
 
 <img width="1539" alt="gender" src="https://user-images.githubusercontent.com/112814924/211099106-953c6b77-41af-4946-ba69-f9699aa6d0e4.png">
 
@@ -48,7 +48,9 @@ As I mentioned earlier, the majority of Citi Bike subscribers are male riders an
 
 We decided to create a heatmap with the number of bike trips per day of the week that will allow us to see the most popular times for each hour of the day.
 
-The most popular times to use the service in the morning are Monday through Friday at 8 am, and in the afternoon are Monday, Tuesday and Thursday from 5 to 6 pm, with up to 44,905 passengers. Those times are usually related to rush hour and it is also important for tourists, who decide to leave early to explore the city and return before dinner.
+The most popular times to use the service in the morning are Monday through Friday at 8 am, and in the afternoon are Monday, Tuesday and Thursday from 5 to 6 pm, with up to 44,905 passengers. 
+
+Those times are usually related to rush hour and also to tourists, who when visiting a new place decide to leave early to explore the city and return before dinner.
 
 <img width="1539" alt="trips weekday" src="https://user-images.githubusercontent.com/112814924/211099178-dec87706-92df-4b6f-bdf0-e069c5034ecd.png">
 
@@ -60,9 +62,9 @@ The most popular times for using the app are mentioned above, however, based on 
 
 ### User Trips by Gender by Weekday
 
-As we know, NYC is such a popular city in the world that it attracts millions of tourists daily, so our heat map shows us that there are many customers among men, women and unknown gender who use the service during weekdays and weekends.
+As we know, NYC is such a popular city in the world and it attracts millions of tourists daily, so our heat map shows us that there are many customers among men, women and unknown gender who use the service during weekdays and weekends.
 
-For subscribers, on the other hand, the cifer fluctuates. The highest number of male subscribers using the app is 259,316 while for female users it's 88,281 and we can attribute this to different reasons, one may be the weather condition as August may be too hot to cycle to work, for example.
+For subscribers, on the other hand, the figure fluctuates. The highest number of male subscribers using the app is 259,316 while for female users it's 88,281 and we can attribute this to different reasons, one may be the weather condition as August can be too hot for cycling to work for women, for example.
 
 <img width="1537" alt="trips" src="https://user-images.githubusercontent.com/112814924/211099206-5e5ab0b4-977b-4920-b1bb-923d9ee39904.png">
 
@@ -70,13 +72,13 @@ For subscribers, on the other hand, the cifer fluctuates. The highest number of 
 
 Des Moines has a population of 212,031 and is smaller than New York, but that doesn't take away from the success this new business will have.
 
-First of all, we would like to start by saying that location is important. Usually, the main attractions, landmarks or businesses are located in the city center, so bike stations should be located in these strategic areas.
+First of all, we would like to start by saying that location is important. Usually, the main attractions, landmarks or businesses are located in the city center, so bike stations should be located in strategic areas.
 
-According to our results, the majority of customers are men, who use this service at peak hours, which means to go to work.
+According to our results, the majority of customers are men who use this service at peak hours, that is, to go to work.
 
-To make sure people engage with this business model, we need to make sure we have enough bikes available for each user, plenty of nearby stations, and an affordable subscription plan, this won't only attract more male customers but it'll also attract tourist and customers in general who are tired of being stuck in traffic everyday and prefer a fun way to go to work and exercise. Why not?
+To make sure that people get involved with this business model, we need to make sure that we have enough bikes available for each user, plenty of stations nearby, and an affordable subscription plan. This will not only attract more male customers but also tourists and any customer that might be tired of being stuck in traffic every day and prefer a fun way to get to work, explore and exercise. Why not?
 
-I would suggest adding an analysis to see what are the best times per day and week to check and repair the bikes if necessary and that these times don't interrupt the hours of use of the customers.
+To further our analysis, I'd suggest adding a viz to see what are the best times of the day and week to check and repair the bikes if necessary and that these times don't interrupt bike usage times for customers.
 
 Finally, to make sure this is a successful year-round business, I would analyse the number of trips per month, to see what strategies can be applied during the winter months.
 
